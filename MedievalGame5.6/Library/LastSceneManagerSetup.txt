@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Escenarios/Escenario Batalla/EscenarioBatalla.unity
+  isLoaded: 1
+  isActive: 1

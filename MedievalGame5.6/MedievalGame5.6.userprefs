@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MedievalGame5.6.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Escenarios\Escenario Batalla\Scripts\CameraController.cs">
+    <Files>
+      <File FileName="Assets\Escenarios\Escenario Batalla\Scripts\CameraController.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
